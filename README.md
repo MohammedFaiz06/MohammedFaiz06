@@ -18,7 +18,7 @@
 
 Hi, I'm [Mohammed Ahmed Faiz](https://mohammedfaiz06.blogspot.com/), a passionate self-taught ethical hacker and a web developer from New Delhi, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also a photographer, check out my website [here](https://thephotographersedge.godaddysites.com/)
+I am also a [photographer](https://thephotographersedge.godaddysites.com/) and a [blogger](https://medirevv.wordpress.com/).
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
