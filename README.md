@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Mohammed Ahmed Faiz](https://mohammedfaiz06.blogspot.com/), a passionate self-taught ethical hacker and an app developer from New Delhi, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Mohammed Ahmed Faiz](https://mohammedfaiz06.blogspot.com/), a passionate self-taught ethical hacker and a web developer from New Delhi, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also a photographer, check out my website [here](https://thephotographersedge.godaddysites.com/)
 
