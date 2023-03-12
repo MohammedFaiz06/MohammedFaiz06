@@ -8,9 +8,9 @@
 <a href="https://www.linkedin.com/in/mohammed-ahmed-faiz-b15b771a2/">
   <img align="left" alt="Mohammed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/u29msjlem4xcm6dw2s6kglwxo?si=e0946af5af29403a">
-  <img align="left" alt="Mohammed's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+#<a href="https://open.spotify.com/user/u29msjlem4xcm6dw2s6kglwxo?si=e0946af5af29403a">
+#  <img align="left" alt="Mohammed's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+#</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
